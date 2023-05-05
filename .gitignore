@@ -1,0 +1,4 @@
+./src/*.o
+./src/a.out
+./src/arenatest
+./src/test.c

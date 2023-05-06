@@ -1,4 +1,4 @@
-./src/*.o
-./src/a.out
-./src/arenatest
-./src/test.c
+/src/*.o
+/src/test.c
+/src/a.out
+/build/*
